@@ -1,6 +1,5 @@
 # Data-Analysis
 Pizza Sales Analysis
-🍕 Excited to share my latest Data Analysis Project — Pizza Sales Dashboard using SQL & Power BI!
 
 📌 Project Overview:
 Analyzed pizza sales data to help a restaurant chain make data-driven decisions to improve sales and understand customer behavior.
@@ -11,6 +10,7 @@ Analyzed pizza sales data to help a restaurant chain make data-driven decisions 
 → Excel/CSV — Raw data source
 
 📊 Key Insights:
+
 ✅ Friday records the highest number of orders
 ✅ Classic category contributes maximum to total sales
 ✅ Large size pizzas are most popular
